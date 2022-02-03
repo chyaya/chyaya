@@ -1,4 +1,10 @@
-### Hi there 👋
+> On my business card, I am a corporate president.
+> 
+> In my mind, I am a game developer.
+> 
+> But in my heart, I am a gamer. 
+> 
+> — Satoru Iwata
 
 <!--
 **chyaya/chyaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
